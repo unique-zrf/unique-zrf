@@ -1,0 +1,36 @@
+name: generate snake animation
+
+on:
+  # 每 12 小时自动运行一次
+  schedule:
+    - cron: "0 */12 * * *"
+  # 支持在 Actions 页面手动触发
+  workflow_dispatch:
+  # push 到 main 分支时也运行
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # 科幻霓虹配色：青色蛇身，格子由暗到亮的青紫渐变
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%2300ffe1&color_dots=%230a0e27,%23134e5e,%2300b8d4,%2300ffe1,%23e100ff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300ffe1&color_dots=%230a0e27,%23134e5e,%2300b8d4,%2300ffe1,%23e100ff
+
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
