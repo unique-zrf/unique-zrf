@@ -16,7 +16,7 @@
 ---
 
 <!-- ============ 贪吃蛇贡献动画（霓虹青） ============ -->
-### 🛰️ CONTRIBUTION GRID // 神经网络轨迹
+### 🛰️ CONTRIBUTION GRID
 
 <picture>
   <source
