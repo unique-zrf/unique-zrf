@@ -5,11 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=00FFE1&center=true&vCenter=true&width=600&height=70&lines=SYSTEM+ONLINE...;Hi+%F0%9F%91%8B+I'm+unique-zrf;AI+%2F+Developer+%2F+Explorer" alt="typing banner" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unique-zrf&label=NEURAL+LINK+VISITS&color=00ffe1&style=for-the-badge" alt="profile views" />
-</p>
 
-<p align="center">
   <code>gogogo</code>
 </p>
 
