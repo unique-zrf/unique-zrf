@@ -39,8 +39,8 @@
 ### 📡 DATA STREAM
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unique-zrf&show_icons=true&count_private=true&hide_border=true&title_color=00b8d4&icon_color=e100ff&text_color=888888&bg_color=00000000" alt="unique-zrf's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-zrf&layout=compact&langs_count=8&hide_border=true&title_color=00b8d4&text_color=888888&bg_color=00000000" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unique-zrf&show_icons=true&count_private=true&hide_border=true&title_color=00b8d4&icon_color=e100ff&text_color=888888&bg_color=00000000"  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-zrf&layout=compact&langs_count=8&hide_border=true&title_color=00b8d4&text_color=888888&bg_color=00000000" />
 </p>
 
 <!-- 连续打卡（透明背景，霓虹描边） -->
