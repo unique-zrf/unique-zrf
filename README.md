@@ -13,9 +13,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unique-zrf&label=NEURAL+LINK+VISITS&color=00ffe1&style=for-the-badge" alt="profile views" />
 </p>
----
 
-<!-- ============ GitHub Stats 统计（位于贪吃蛇上方，参考 makoMakoGo 样式） ============ -->
+
+<!-- ============ GitHub Stats 统计（位于贪吃蛇上方） ============ -->
 ### GitHub Stats
 
 <p align="center">
@@ -54,10 +54,6 @@
 
 
 
-<!-- 连续打卡（透明背景，霓虹描边） -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unique-zrf&hide_border=true&background=00000000&stroke=00b8d4&ring=e100ff&fire=e100ff&currStreakLabel=00b8d4&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" alt="GitHub Streak" />
-</p>
 
 <!-- 活动图（透明背景，霓虹曲线） -->
 <p align="center">
