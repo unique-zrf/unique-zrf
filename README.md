@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <code>gogogo</code>
+  <code>&gt;gogogo</code>
 </p>
 
 ---
 
 <!-- ============ 贪吃蛇贡献动画（霓虹青） ============ -->
-### 🛰️ CONTRIBUTION GRID
+### 🛰️ CONTRIBUTION GRID // 神经网络轨迹
 
 <picture>
   <source
@@ -39,18 +39,18 @@
 ### 📡 DATA STREAM // 数据统计
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unique-zrf&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00ffe1&icon_color=e100ff&text_color=c9d1d9&bg_color=0a0e27" alt="unique-zrf's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-zrf&layout=compact&langs_count=8&hide_border=true&title_color=00ffe1&text_color=c9d1d9&bg_color=0a0e27" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unique-zrf&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00b8d4&icon_color=e100ff&text_color=888888&bg_color=00000000" alt="unique-zrf's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-zrf&layout=compact&langs_count=8&hide_border=true&title_color=00b8d4&text_color=888888&bg_color=00000000" alt="Top Languages" />
 </p>
 
-<!-- 连续打卡（自定义霓虹配色） -->
+<!-- 连续打卡（透明背景，霓虹描边） -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unique-zrf&hide_border=true&background=0a0e27&stroke=00ffe1&ring=e100ff&fire=e100ff&currStreakLabel=00ffe1&sideLabels=c9d1d9&dates=8b949e&currStreakNum=00ffe1&sideNums=00ffe1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unique-zrf&hide_border=true&background=00000000&stroke=00b8d4&ring=e100ff&fire=e100ff&currStreakLabel=00b8d4&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" alt="GitHub Streak" />
 </p>
 
-<!-- 活动图（霓虹曲线） -->
+<!-- 活动图（透明背景，霓虹曲线） -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unique-zrf&bg_color=0a0e27&color=00ffe1&line=e100ff&point=ffffff&area=true&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unique-zrf&bg_color=00000000&color=00b8d4&line=e100ff&point=888888&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---
