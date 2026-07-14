@@ -11,13 +11,7 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      alt="unique-zrf's GitHub Stats"
-      src="https://github-readme-stats.vercel.app/api?username=unique-zrf&show_icons=true&theme=graywhite&hide_border=true&card_width=500"
-    />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=00FFE1&center=true&vCenter=true&width=600&height=70&lines=SYSTEM+ONLINE...;Hi+%F0%9F%91%8B+I'm+unique-zrf;AI+%2F+Developer+%2F+Explorer" alt="typing banner" />
 </p>
 
 <!-- ============ 贪吃蛇贡献动画（霓虹青） ============ -->
