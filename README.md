@@ -13,7 +13,22 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unique-zrf&label=NEURAL+LINK+VISITS&color=00ffe1&style=for-the-badge" alt="profile views" />
 </p>
+---
 
+<!-- ============ GitHub Stats 统计（位于贪吃蛇上方，参考 makoMakoGo 样式） ============ -->
+### GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      alt="unique-zrf's GitHub Stats"
+      src="https://github-readme-stats-ten-nu-85.vercel.app/api?username=unique-zrf&theme=graywhite&hide_border=true&card_width=500"
+    />
+  </a>
+</p>
+
+---
 <!-- ============ 贪吃蛇贡献动画（霓虹青） ============ -->
 ### 🛰️ CONTRIBUTION GRID
 
