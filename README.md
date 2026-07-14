@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <code>&gt;_ Initializing developer profile ......... [ OK ]</code>
+  <code>gogogo</code>
 </p>
 
 ---
