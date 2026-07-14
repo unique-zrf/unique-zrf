@@ -16,7 +16,7 @@
 ---
 
 <!-- ============ 贪吃蛇贡献动画（霓虹青） ============ -->
-### 🛰️ CONTRIBUTION GRID // 神经网络轨迹
+### 🛰️ CONTRIBUTION GRID
 
 <picture>
   <source
@@ -36,10 +36,10 @@
 ---
 
 <!-- ============ GitHub 统计卡片（radical 霓虹主题 + 自定义配色） ============ -->
-### 📡 DATA STREAM // 数据统计
+### 📡 DATA STREAM
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unique-zrf&show_icons=false&count_private=true&include_all_commits=true&hide_border=true&title_color=00b8d4&icon_color=e100ff&text_color=888888&bg_color=00000000" alt="unique-zrf's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unique-zrf&show_icons=true&count_private=true&hide_border=true&title_color=00b8d4&icon_color=e100ff&text_color=888888&bg_color=00000000" alt="unique-zrf's GitHub stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique-zrf&layout=compact&langs_count=8&hide_border=true&title_color=00b8d4&text_color=888888&bg_color=00000000" alt="Top Languages" />
 </p>
 
