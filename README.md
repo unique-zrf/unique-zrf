@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <code>&gt;gogogo</code>
+  <code>gogogo</code>
 </p>
 
 ---
