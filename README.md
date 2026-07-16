@@ -66,7 +66,7 @@
 ---
 
 <!-- ============ 联系方式（自行修改/删除） ============ -->
-### 🔗 UPLINK // 联系我
+### 🔗 UPLINK
 
 <p align="center">
   <a href="https://github.com/unique-zrf">
@@ -74,4 +74,4 @@
   </a>
 </p>
 
-<p align="center"><code>&gt;_ Connection established. Welcome, operator.</code></p>
+<p align="center"><code>unique.abc.yes@gmail.com</code></p>
