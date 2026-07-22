@@ -1,36 +1,67 @@
-<!-- ============ 科幻 AI 风格 · 赛博霓虹主题 ============ -->
+<h1 align="center">Hi 👋, I'm unique-ZRF</h1>
 
-<!-- 顶部动态打字标语 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=800&color=00FFE1&center=true&vCenter=true&width=600&height=70&lines=SYSTEM+ONLINE...;Hi+%F0%9F%91%8B+I'm+unique-zrf;AI+%2F+Developer+%2F+Explorer" alt="typing banner" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=900&color=00B8D4&center=true&vCenter=true&width=680&height=45&lines=Hardware+%C3%97+AI+Developer;EDA+%C2%B7+Automation+%C2%B7+RAG;Turning+engineering+ideas+into+practical+tools"
+    alt="Hardware × AI Developer — EDA, Automation and RAG"
+  />
 </p>
 
 <p align="center">
-  <code>gogogo</code>
+  专注于硬件工程、EDA 自动化与 AI 知识工具<br />
+  Focused on hardware engineering, EDA automation, and practical AI tooling.
 </p>
 
----
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=unique-zrf&label=NEURAL+LINK+VISITS&color=00ffe1&style=for-the-badge" alt="profile views" />
-</p>
-
-
-<!-- ============ GitHub Stats 统计（位于贪吃蛇上方） ============ -->
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      alt="unique-zrf's GitHub Stats"
-      src="https://github-readme-stats-ten-nu-85.vercel.app/api?username=unique-zrf&theme=graywhite&hide_border=true&card_width=500"
-    />
+  <a href="https://github.com/unique-zrf">
+    <img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00FFE1" alt="GitHub" />
   </a>
+  <a href="https://blog.csdn.net/unique_ZRF?spm=1000.2115.3001.5343">
+    <img src="https://img.shields.io/badge/CSDN_Blog-FC5531?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN Blog" />
+  </a>
+  <a href="mailto:unique.abc.yes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7C4DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=unique-zrf&label=PROFILE+VIEWS&color=00b8d4&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
-<!-- ============ 贪吃蛇贡献动画（霓虹青） ============ -->
-### 🛰️ CONTRIBUTION GRID
+
+## About Me
+
+- 🔭 Building reproducible tools for **WCCA automation**, **netlist analysis**, and engineering knowledge workflows.
+- 🧠 Exploring how **RAG and AI** can make hardware documentation easier to search, understand, and reuse.
+- 🛠️ I enjoy turning complex engineering processes into traceable, practical command-line tools.
+- ✍️ I share notes and technical explorations on my [CSDN blog](https://blog.csdn.net/unique_ZRF?spm=1000.2115.3001.5343).
+
+## Tech & Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0A0E27?style=flat-square&logo=python&logoColor=00FFE1" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-0A0E27?style=flat-square&logo=git&logoColor=00FFE1" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-0A0E27?style=flat-square&logo=linux&logoColor=00FFE1" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-0A0E27?style=flat-square&logo=docker&logoColor=00FFE1" alt="Docker" />
+  <img src="https://img.shields.io/badge/Hardware_Engineering-7C4DFF?style=flat-square" alt="Hardware Engineering" />
+  <img src="https://img.shields.io/badge/EDA_%26_Netlists-7C4DFF?style=flat-square" alt="EDA and Netlists" />
+  <img src="https://img.shields.io/badge/RAG_%26_AI-7C4DFF?style=flat-square" alt="RAG and AI" />
+</p>
+
+## Featured Projects
+
+| Project | What it does | Stack / Focus |
+| --- | --- | --- |
+| [WCCA Automation Toolkit](https://github.com/unique-zrf/wcca_calculate) | Automates worst-case circuit analysis with approved calculation models, local knowledge cards, traceable reports, validation, and audit workflows. | Python · CLI · WCCA · Traceability |
+| [SpyDrNet Development](https://github.com/unique-zrf/spydrnet) | A secondary-development workspace for SpyDrNet and netlist-analysis exploration. | Python · EDA · Netlists |
+
+## GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-ten-nu-85.vercel.app/api?username=unique-zrf&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00B8D4&text_color=8B949E&icon_color=E100FF"
+    alt="unique-ZRF's GitHub stats"
+    height="165"
+  />
+</p>
 
 <picture>
   <source
@@ -42,36 +73,14 @@
     srcset="https://raw.githubusercontent.com/unique-zrf/unique-zrf/output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/unique-zrf/unique-zrf/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution grid snake animation"
   />
 </picture>
 
 ---
 
-<!-- ============ GitHub 统计卡片（radical 霓虹主题 + 自定义配色） ============ -->
-### 📡 DATA STREAM
-
-
-<!-- 连续打卡（透明背景，霓虹描边） -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unique-zrf&hide_border=true&background=00000000&stroke=00b8d4&ring=e100ff&fire=e100ff&currStreakLabel=00b8d4&sideLabels=888888&dates=888888&currStreakNum=888888&sideNums=888888" alt="GitHub Streak" />
+  <strong>Build with curiosity. Engineer with evidence.</strong><br />
+  <sub>Thanks for visiting — feel free to explore my repositories or get in touch.</sub>
 </p>
-
-<!-- 活动图（透明背景，霓虹曲线） -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=unique-zrf&bg_color=00000000&color=00b8d4&line=e100ff&point=888888&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-<!-- ============ 联系方式（自行修改/删除） ============ -->
-### 🔗 UPLINK
-
-<p align="center">
-  <a href="https://github.com/unique-zrf">
-    <img src="https://img.shields.io/badge/GitHub-0a0e27?style=for-the-badge&logo=github&logoColor=00ffe1" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center"><code>unique.abc.yes@gmail.com</code></p>
